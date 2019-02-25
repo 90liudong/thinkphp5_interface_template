@@ -1,0 +1,10 @@
+#当前目录下的全部
+/*
+
+#除了这些
+!.gitignore
+!/css
+!/js
+!/font
+!/img
+!/pub
